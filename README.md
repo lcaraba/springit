@@ -41,8 +41,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Spring Boot 2](https://projects.spring.io/spring-boot)
-* [Spring Framework 5](https://projects.spring.io/spring-framework)
+* [Spring Boot 2](https://spring.io/projects/spring-boot)
+* [Spring Framework 5](https://spring.io/projects/spring-framework)
 
 ## Contributing
 
@@ -54,7 +54,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Dan Vega** - [danvega](https://github.com/danvega)
+* **Dan Vega** - [Dan Vega](https://www.danvega.dev/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
